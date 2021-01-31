@@ -1,2 +1,2 @@
 # studentrant-upload-service
-This service is response for uploading media files to AWS
+This service is responsible for uploading media files to AWS
